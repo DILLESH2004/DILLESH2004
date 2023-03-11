@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BHAGYADILLESH
 - 👀 I’m interested in Competative coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
