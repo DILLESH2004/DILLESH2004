@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Hibernate,Spring,Microservices**
 
-- 💬 Ask me about **Frontend , Backend ,Data Analysis, Machine Learning**
+- 💬 Ask me about **Frontend , Backend **
 
 - 📫 How to reach me **bhagyadillesh@gmail.com**
 
