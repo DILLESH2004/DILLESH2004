@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhagyadillesh_1" target="blank"><img src="https://img.shields.io/twitter/follow/bhagyadillesh_1?logo=twitter&style=for-the-badge" alt="bhagyadillesh_1" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Projects**
+- 🔭 I’m currently working on **Java Full Stack Projects**
 
 
 
